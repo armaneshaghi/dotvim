@@ -34,7 +34,7 @@ map <c-k> <c-w>k
 map <c-l> <c-w>l
 map <c-h> <c-w>h
 so ~/.vim/functions/csv_highlight.vim
-
+syntax on
 :command -range Cz :silent :<line1>,<line2>w !xsel -i -b
 :command -range Cx :silent :<line1>,<line2>w !xsel -i -p
 :command -range Cv :silent :<line1>,<line2>w !xsel -i -s
