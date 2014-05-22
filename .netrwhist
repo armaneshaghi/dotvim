@@ -1,6 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/home/arman/Documents'
 let g:netrw_dirhist_2='/home/arman/condor_configs/hosts/eggplant'
 let g:netrw_dirhist_3='/opt/HTCondor/examples'
 let g:netrw_dirhist_4='/home/arman/Documents/EC2'
+let g:netrw_dirhist_5='/home/arman2/documents/aws'
+let g:netrw_dirhist_6='/home/arman/COGNISEP/codes/1_bet_codes'
