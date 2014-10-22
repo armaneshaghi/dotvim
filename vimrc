@@ -52,3 +52,5 @@ colorscheme molokai
 :cabbrev px Px
 :cabbrev pv Pv
 :filetype plugin on
+" powerline installation
+set rtp+=/data/miscelaneous/powerline/powerline/bindings/vim
